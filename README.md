@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://link)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://link)
 
-![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=IsacSa7&show_icons=true&theme=drarck)
+![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=isacsa7&show_icons=true&theme=drarck)
 
 
 ## Tecnologias Usadas
