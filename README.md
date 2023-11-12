@@ -1,8 +1,9 @@
-### Olá, Eu sou o Isaac!🤙
+### Olá, Eu sou o Isaac! Estou presente nas seguintes redes sociais 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://link)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://link)
 
+### Fluxograma de Status
 ![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacSa7&show_icons=true&theme=dark)
 
 
